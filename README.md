@@ -11,7 +11,7 @@ Advent of Code is an annual coding event and a great way to improve your program
 - [x] Day 1, puzzle 2.
 - [x] Day 2, puzzle 1.
 - [x] Day 2, puzzle 2.
-- [ ] Day 3, puzzle 1.
+- [x] Day 3, puzzle 1.
 - [ ] Day 3, puzzle 2.
 - [ ] Day 4, puzzle 1.
 - [ ] Day 4, puzzle 2.
